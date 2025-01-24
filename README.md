@@ -85,6 +85,7 @@ This project focuses on analyzing aviation accident data from the National Trans
 ## Author
 - **Name**: Jake G
 - **Contact**: [LinkedIn Profile](https://www.linkedin.com/in/jakeg) | [Email](mailto:jakeg@example.com)
+- **Name**: Mak T
 - **Contact**: [LinkedIn Profile]( https://www.linkedin.com/in/mak-trnka/) | [Email](maktrnka@comcast.net)
 ---
 
