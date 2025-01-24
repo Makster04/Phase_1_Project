@@ -1,5 +1,6 @@
 # Aviation Safety Analysis
-
+## Tableau Interactive Dashboard 
+- [Link](https://public.tableau.com/app/profile/mak.trnka/viz/TableauRoughDraftDashboard/Dashboard1#1)
 ## Project Overview
 This project focuses on analyzing aviation accident data from the National Transportation Safety Board (NTSB) spanning the years 1962–2023. The primary goal is to identify low-risk aircraft models and provide operational safety recommendations to support a company's entry into the aviation sector.
 
